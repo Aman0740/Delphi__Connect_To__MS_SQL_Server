@@ -1,6 +1,7 @@
 # Delphi__Connect_To__MS_SQL_Server
 
 To connect a Delphi project to Microsoft SQL Server, you typically use the **FireDAC** framework, which is a robust and flexible database access library included in modern versions of Delphi. Here's a step-by-step guide:
+
 ![Uploading 1068x580_How-to-Connect-to-SQL-Server-1.jpg…]()
 
 - Delphi is a popular programming language for developing Windows applications, and connecting to databases like SQL Server is a common requirement for many software projects. Devart SDAC is a powerful set of components that simplifies database connectivity in Delphi applications. In this article, we will walk you through the process of connecting to SQL Server using Devart SDAC, including installation and examples of how to interact with the components. We will also briefly compare SDAC with FireDAC to help you choose the right tool for your project.
